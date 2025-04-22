@@ -4,7 +4,7 @@ import java.util.function.Consumer;
 import java.util.function.Supplier;
 import java.util.stream.Stream;
 
-public class StreamsDemo {
+public class Test1 {
     public static void main(String[] args) {
         // Streams API is used to process a data stream.
         //  Streams are used to process collections of objects in a functional way.
